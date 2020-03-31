@@ -1,5 +1,6 @@
 # E09a-First-Person-Character
 
+All done!
 The purpose of this exercise is for you to create a 3D first-person character in Godot. As this is your first 3D project in Godot, we will start slowly, giving you an opportunity to become accustomed to the environment and some of the concepts associate with building a 3D game.
 
 This exercise is loosely based on the Godot 101: Intro to 3D tutorial by KidsCanCode. The YouTube video is [available here](https://www.youtube.com/watch?v=_55ktNdarxY) and a similar tutorial is [written out here](http://kidscancode.org/godot_recipes/basics/3d/101_3d_07/). Please follow the directions I provide in this exercise, but if you get stuck or need additional context, feel free to consult the KidsCanCode tutorial.
